@@ -1,6 +1,7 @@
 # FoodWeb
 Static Restraunt website with tons of js files include for beatufy
 A Neat website with quick navigations , food items dispkay, contact details...
+demo : 🔗https://harish-srinivas-07.github.io/foodweb/
 
 # ScreenShots
 <img width="1080" alt="image" src="https://user-images.githubusercontent.com/114596900/213896052-caf77de9-ef45-45b8-a01e-f1743193d70c.png">
