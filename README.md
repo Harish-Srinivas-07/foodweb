@@ -43,7 +43,7 @@ Navigating our Food Website is as easy as slicing a pie:
 
 ## Showcase
 
-- **Website**: [saecfoodweb.netlify.app]([https://www.foodwebsite.com](https://saecfoodweb.netlify.app/))
+- **Website**: [saecfoodweb.netlify.app](https://saecfoodweb.netlify.app/)
 
 # ScreenShots
 <img width="1080" alt="image" src="https://user-images.githubusercontent.com/114596900/213896052-caf77de9-ef45-45b8-a01e-f1743193d70c.png">
